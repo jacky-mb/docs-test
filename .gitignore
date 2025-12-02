@@ -1,0 +1,8 @@
+LICENSE
+README.md
+assets/
+config.yml
+data/
+node_modules/
+package.json
+server/
